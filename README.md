@@ -1,2 +1,0 @@
-# covidappdatamanipulation
-Created with CodeSandbox
